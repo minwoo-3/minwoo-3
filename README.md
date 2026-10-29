@@ -6,14 +6,16 @@ Backend developer working with Java, Kotlin, and Spring. I like building reliabl
 
 [![Skills](https://skillicons.dev/icons?i=java,kotlin,spring,postgres,mysql,redis,docker,git)](https://skillicons.dev)
 
-## Projects
+## Open Source Contributions
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [GSMC-Server-V4](https://github.com/team-incube/GSMC-Server-V4) | Certification score management service for GSM students | Kotlin, Spring Boot, Redis |
-| [CheckUp-server](https://github.com/Start-Up-10th/CheckUp-server) | Dormitory check-in service with face recognition | Spring Boot |
-| [GOMS-Backend-V3](https://github.com/team-haribo/GOMS-Backend-V3) | Outing request and management service for students | Kotlin, Spring Boot |
-| [moa](https://github.com/minwoo-3/moa) | Study room reservation, approval, and QR attendance system | Spring Boot 3, JPA, JWT, PostgreSQL, PWA |
+**NestJS**
+- [nestjs/nest#17904](https://github.com/nestjs/nest/pull/17904): Support UUID v1, v2, v6, and v8 in `ParseUUIDPipe`
+- [nestjs/throttler#2694](https://github.com/nestjs/throttler/pull/2694): Respect explicit zero for `limit`, `ttl`, and `blockDuration`
+- [nestjs/docs.nestjs.com#3499](https://github.com/nestjs/docs.nestjs.com/pull/3499): Document `enableVersioning` / `createDocument` call order
+
+**Spring PetClinic**
+- [spring-petclinic/spring-petclinic-microservices#556](https://github.com/spring-petclinic/spring-petclinic-microservices/pull/556): Avoid `require('@actions/github')` in triage-pr workflow script
+- [spring-petclinic/spring-petclinic-microservices#555](https://github.com/spring-petclinic/spring-petclinic-microservices/pull/555): Bump Grafana to 11.4.0 and Prometheus to v3.1.0
 
 ## Contact
 
