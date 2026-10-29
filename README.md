@@ -4,7 +4,7 @@ Backend developer working with Java, Kotlin, and Spring. I like building reliabl
 
 ## Tech Stack
 
-[![Skills](https://skillicons.dev/icons?i=java,kotlin,spring,ts,nestjs,postgres,mysql,redis,docker,git)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,kotlin,spring,postgres,mysql,redis,docker,git)](https://skillicons.dev)
 
 ## Projects
 
@@ -14,12 +14,6 @@ Backend developer working with Java, Kotlin, and Spring. I like building reliabl
 | [CheckUp-server](https://github.com/Start-Up-10th/CheckUp-server) | Dormitory check-in service with face recognition | Spring Boot |
 | [GOMS-Backend-V3](https://github.com/team-haribo/GOMS-Backend-V3) | Outing request and management service for students | Kotlin, Spring Boot |
 | [moa](https://github.com/minwoo-3/moa) | Study room reservation, approval, and QR attendance system | Spring Boot 3, JPA, JWT, PostgreSQL, PWA |
-
-## Open Source
-
-- [spring-projects/spring-framework#37335](https://github.com/spring-projects/spring-framework/pull/37335): Cap Duration-based timeouts exceeding int range in request factories
-- [spring-projects/spring-security#19734](https://github.com/spring-projects/spring-security/pull/19734): Fix family mismatch crash in `IpInetAddressMatcher`
-- [nestjs/nest#17874](https://github.com/nestjs/nest/pull/17874): Reject unsafe integers in `ParseIntPipe`
 
 ## Contact
 
