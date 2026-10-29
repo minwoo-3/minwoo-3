@@ -1,6 +1,4 @@
-# Hi, I'm Minwoo 👋
-
-Backend developer working with Java, Kotlin, and Spring. I like building reliable server-side systems and contributing to open source.
+盡人事待天命
 
 ## Open Source Contributions
 
