@@ -2,10 +2,6 @@
 
 Backend developer working with Java, Kotlin, and Spring. I like building reliable server-side systems and contributing to open source.
 
-## Tech Stack
-
-[![Skills](https://skillicons.dev/icons?i=java,kotlin,spring,postgres,mysql,redis,docker,git)](https://skillicons.dev)
-
 ## Open Source Contributions
 
 **NestJS**
