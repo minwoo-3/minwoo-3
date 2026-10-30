@@ -10,9 +10,3 @@
 **Spring PetClinic**
 - [spring-petclinic/spring-petclinic-microservices#556](https://github.com/spring-petclinic/spring-petclinic-microservices/pull/556): Avoid `require('@actions/github')` in triage-pr workflow script
 - [spring-petclinic/spring-petclinic-microservices#555](https://github.com/spring-petclinic/spring-petclinic-microservices/pull/555): Bump Grafana to 11.4.0 and Prometheus to v3.1.0
-
-## Now Playing
-
-<a href="https://www.youtube.com/embed/73Locr9w9hE?start=131&end=180&autoplay=1">
-  <img src="./now-playing.svg" width="480" alt="Now playing: Donutman - Dope (feat. Simba Zawadi, Young B), Young B part">
-</a>
