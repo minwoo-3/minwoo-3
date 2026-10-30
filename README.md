@@ -14,7 +14,5 @@
 ## Now Playing
 
 <a href="https://www.youtube.com/embed/73Locr9w9hE?start=131&end=180&autoplay=1">
-  <img src="https://img.youtube.com/vi/73Locr9w9hE/hqdefault.jpg" width="320" alt="Donutman - Dope (feat. Simba Zawadi, Young B)">
+  <img src="./now-playing.svg" width="480" alt="Now playing: Donutman - Dope (feat. Simba Zawadi, Young B), Young B part">
 </a>
-
-▶ 도넛맨 - Dope (feat. Simba Zawadi, Young B) · 양홍원 part (2:11–3:00)
